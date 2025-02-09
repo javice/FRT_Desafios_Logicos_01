@@ -90,7 +90,7 @@ Podés usar mindmaps, tablas, bullet points...lo que quieras. Vas a documentar t
 **Pasos:**
 1. Navegar a https://www.freerangetesters.com.
 2. Navegar al apartado 'Mentorias'.
-3. Verificar que se muestran las mentorías.
+3. Verificar que se muestra la sección de mentorías.
 
 **Resultado Esperado:**
 - El usuario puede ver y acceder a las mentorías.
