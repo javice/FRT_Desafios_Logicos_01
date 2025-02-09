@@ -101,7 +101,7 @@ Podés usar mindmaps, tablas, bullet points...lo que quieras. Vas a documentar t
 **Pasos:**
 1. Navegar a https://www.freerangetesters.com.
 2. Navegar al apartado 'Udemy'.
-3. Verificar que se muestran los cursos de Udemy.
+3. Verificar que se muestran todos los cursos de Udemy.
 
 **Resultado Esperado:**
 - El usuario puede ver y acceder a los cursos de Udemy.
