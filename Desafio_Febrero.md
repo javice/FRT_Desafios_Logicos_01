@@ -62,7 +62,7 @@ Podés usar mindmaps, tablas, bullet points...lo que quieras. Vas a documentar t
 **Resultado Esperado:**
 - El usuario puede ver y acceder a todos los cursos.
 
-### Caso 4: Cualquier usuario (registrdo o no) puede ver Recursos Gratuitos
+### Caso 4: Cualquier usuario (registrado o no) puede ver Recursos Gratuitos
 **Descripción:** Verificar que un usuario cualquiera puede ver la sección Recursos.
 
 **Pasos:**
@@ -73,7 +73,7 @@ Podés usar mindmaps, tablas, bullet points...lo que quieras. Vas a documentar t
 **Resultado Esperado:**
 - El usuario accede a la sección de Recursos correctamente.
 
-### Caso 5: Cualquier usuario (registrdo o no) puede acceder al Blog
+### Caso 5: Cualquier usuario (registrado o no) puede acceder al Blog
 **Descripción:** Verificar que cualquier usuario puede acceder al apartado 'Blog'.
 
 **Pasos:**
@@ -84,18 +84,18 @@ Podés usar mindmaps, tablas, bullet points...lo que quieras. Vas a documentar t
 **Resultado Esperado:**
 - El usuario puede ver y acceder al blog.
 
-### Caso 6: Cualquier usuario (registrdo o no) puede acceder a la sección de Mentorías
+### Caso 6: Cualquier usuario (registrado o no) puede acceder a la sección de Mentorías
 **Descripción:** Verificar que cualquier usuario puede acceder a la sección de Mentorías.
 
 **Pasos:**
 1. Navegar a https://www.freerangetesters.com.
 2. Navegar al apartado 'Mentorias'.
-3. Verificar que se muestran las mentorías.
+3. Verificar que se muestra la sección de mentorías.
 
 **Resultado Esperado:**
 - El usuario puede ver y acceder a las mentorías.
 
-### Caso 7: Cualquier usuario (registrdo o no) puede acceder al apartado de Udemy
+### Caso 7: Cualquier usuario (registrado o no) puede acceder al apartado de Udemy
 **Descripción:** Verificar que cualquier usuario puede acceder al apartado de Udemy.
 
 **Pasos:**
