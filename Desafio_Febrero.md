@@ -116,7 +116,7 @@ Podés usar mindmaps, tablas, bullet points...lo que quieras. Vas a documentar t
 4. Verificar que el usuario se loguea correctamente y es redirigido a la sección de Productos.
 
 **Resultado Esperado:**
-- El usuario se loguea correctamente y es redirigido a la sección de Productos.
+- El usuario se loguea correctamente y es redirigido a la sección 'Productos'.
 
 ## Diagramas 
 
